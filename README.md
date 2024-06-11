@@ -1,0 +1,2 @@
+# IMDB-movie-review-using-ML
+ConductedsentimentanalysisonIMDBmoviereviewsusingPythonandScikit-learn.  Developedapredictivemodelforclassifyingreviewsaspositiveornegative.  UtilizedNaturalLanguageProcessing(NLP)andsentimentanalysisalgorithms.
